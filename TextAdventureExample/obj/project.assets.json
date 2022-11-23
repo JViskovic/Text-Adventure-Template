@@ -509,11 +509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\qtnzjvi\\Documents\\00-UCL\\22-23\\ITCMP\\TextAdventure\\TextAdventureExample\\TextAdventureExample\\TextAdventureExample.csproj",
+      "projectUniqueName": "C:\\Users\\qtnzjvi\\Documents\\braunschweig_workshop\\Text-Adventure-Template\\TextAdventureExample\\TextAdventureExample.csproj",
       "projectName": "TextAdventureExample",
-      "projectPath": "C:\\Users\\qtnzjvi\\Documents\\00-UCL\\22-23\\ITCMP\\TextAdventure\\TextAdventureExample\\TextAdventureExample\\TextAdventureExample.csproj",
+      "projectPath": "C:\\Users\\qtnzjvi\\Documents\\braunschweig_workshop\\Text-Adventure-Template\\TextAdventureExample\\TextAdventureExample.csproj",
       "packagesPath": "C:\\Users\\qtnzjvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\qtnzjvi\\Documents\\00-UCL\\22-23\\ITCMP\\TextAdventure\\TextAdventureExample\\TextAdventureExample\\obj\\",
+      "outputPath": "C:\\Users\\qtnzjvi\\Documents\\braunschweig_workshop\\Text-Adventure-Template\\TextAdventureExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\qtnzjvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
